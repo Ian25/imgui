@@ -13,7 +13,12 @@ examples/*/Debug/*
 examples/*/Release/*
 examples/*/x64/*
 
+bin/
+bin-int/
+
 ## Visual Studio artifacts
+*.vcxproj
+
 .vs
 ipch
 *.opensdf
